@@ -2,6 +2,7 @@
 
 __pycache__
 .idea
+test.py
 
 # server
 /backend/__pycache__
